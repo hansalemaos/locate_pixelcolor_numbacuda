@@ -10,7 +10,7 @@ import numpy as np
 colors=[(66,  71,  69),(62,  67,  65),(144, 155, 153),(52,  57,  55),(127, 138, 136),(53,  58,  56),(51,  56,  54),(32,  27,  18),(24,  17,   8),]
 ```
 
-#### image'https://www.pexels.com/pt-br/foto/foto-da-raposa-sentada-no-chao-2295744/'
+#### https://www.pexels.com/pt-br/foto/foto-da-raposa-sentada-no-chao-2295744/
 
 ```python
 picnp = open_image_in_cv('pexels-alex-andrews-2295744.jpg',channels_in_output=3)
